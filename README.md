@@ -16,5 +16,6 @@ discuss the choice of appropriate model parameters and their impact on measures 
 concentration risk
 
 # Data
-The used data of the MDB Portfolios (in an Excel-Spreadsheet)
+The used data of the MDB Portfolios (in an Excel-Spreadsheet):
+
 [MDB portfolios.xlsx](MDB portfolios.xlsx)
