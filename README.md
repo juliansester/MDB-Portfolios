@@ -14,3 +14,8 @@ analytical approximation as currently applied by a major rating agency, we furth
 whether current capital adequacy frameworks for MDBs are overly conservative. Finally, we
 discuss the choice of appropriate model parameters and their impact on measures of name
 concentration risk
+
+# Data
+The used data of the MDB Portfolios (in an Excel-Spreadsheet)
+
+  - [MDB portfolios.xlsx](MDB portfolios.xlsx)
