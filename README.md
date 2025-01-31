@@ -17,5 +17,4 @@ concentration risk
 
 # Data
 The used data of the MDB Portfolios (in an Excel-Spreadsheet)
-
-  - [MDB portfolios.xlsx](MDB portfolios.xlsx)
+[MDB portfolios.xlsx](MDB portfolios.xlsx)
